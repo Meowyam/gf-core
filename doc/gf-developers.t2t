@@ -463,6 +463,10 @@ If you do not have Haskell installed, you can use the simple build script ``Setu
 
 == Creating binary distribution packages ==
 
+The binaries are generated with Github Actions. More details can be viewed here:
+
+https://github.com/GrammaticalFramework/gf-core/actions/workflows/build-binary-packages.yml
+
 === Creating .deb packages for Ubuntu ===
 
 This was tested on Ubuntu 14.04 for the release of GF 3.6, and the
